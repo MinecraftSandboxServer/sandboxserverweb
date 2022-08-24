@@ -12,8 +12,13 @@
 .link{
     text-decoration: none;
     color: black;
+    padding: 10px;
+}
+.link:hover{
+    color: white;
 }
 .header{
+    background-color: #FCD18D;
     -webkit-box-shadow: -2px 7px 8px 0px rgba(34, 60, 80, 0.2);
     -moz-box-shadow: -2px 7px 8px 0px rgba(34, 60, 80, 0.2);
     box-shadow: -2px 7px 8px 0px rgba(34, 60, 80, 0.2);
